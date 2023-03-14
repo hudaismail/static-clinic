@@ -1,6 +1,6 @@
 *{margin:0 ; padding:0; font-family:'Poppins',san-serif;}
 #background{
-	background:linear-gradient(rgba(0,0,0,0.5),cyan),url(doc3.jpg);
+	background:linear-gradient(rgba(84,110,84,0.6),rgb(38,50,56)),url(tec.jpg);
 	background-size:cover;
 	background-position:center;
 	height:100vh;
@@ -11,6 +11,7 @@
 	position:absolute;
 	top:4%;
 	left:10%;
+	color:black;
 	}
 .background-text{
 	text-align:center;
@@ -20,6 +21,7 @@
 .background-text h1{
 	font-size:130px;
 	font-family:'Kaushan Script' , cursive;
+	color:rgb(207,216,220);
 }
 .background-text p{
 	font-size:30px;
@@ -251,7 +253,7 @@ nav ul li a{
 
 #footer{
 	padding:100px 0 20px;
-	background:lightgray;
+	background:rgb(207,216,220);
 	position:relative;
 }
 
@@ -327,7 +329,6 @@ nav ul li a{
 		top:25%;
 	}
 }
-
 
 
 
